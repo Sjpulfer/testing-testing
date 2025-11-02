@@ -1,0 +1,5 @@
+name = "testing-testing"
+type = "javascript"
+account_id = "y04a31b1797c6f74d96138a5fc8cef7e9"
+workers_dev = true
+compatibility_date = "2025-11-02"
