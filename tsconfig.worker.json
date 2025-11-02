@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "Es2020",
+    "module": "ESNext",
+    "lib": ["DOM", "ES2020"],
+    "moduleResolution": "node",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src", "worker-configuration.d.ts"]
+}
