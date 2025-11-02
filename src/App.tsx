@@ -20,7 +20,7 @@ function App() {
         </p>
       </div>
      {/* Render Builder.io page content */}
-     <BuilderComponent model="page" options={{ url: location.pathname}}
+     <BuilderComponent model="page" options={{ url: location.pathname }} />
     </>
   );
 }
